@@ -1,0 +1,11 @@
+C:\Async\Async Lecture2\Async Lecture2\Async Lecture2\bin\Debug\Async Lecture2.exe.config
+C:\Async\Async Lecture2\Async Lecture2\Async Lecture2\bin\Debug\Async Lecture2.exe
+C:\Async\Async Lecture2\Async Lecture2\Async Lecture2\bin\Debug\Async Lecture2.pdb
+C:\Async\Async Lecture2\Async Lecture2\Async Lecture2\obj\Debug\Async Lecture2.csproj.AssemblyReference.cache
+C:\Async\Async Lecture2\Async Lecture2\Async Lecture2\obj\Debug\Async Lecture2.csproj.SuggestedBindingRedirects.cache
+C:\Async\Async Lecture2\Async Lecture2\Async Lecture2\obj\Debug\Async_Lecture2.Form1.resources
+C:\Async\Async Lecture2\Async Lecture2\Async Lecture2\obj\Debug\Async_Lecture2.Properties.Resources.resources
+C:\Async\Async Lecture2\Async Lecture2\Async Lecture2\obj\Debug\Async Lecture2.csproj.GenerateResource.cache
+C:\Async\Async Lecture2\Async Lecture2\Async Lecture2\obj\Debug\Async Lecture2.csproj.CoreCompileInputs.cache
+C:\Async\Async Lecture2\Async Lecture2\Async Lecture2\obj\Debug\Async Lecture2.exe
+C:\Async\Async Lecture2\Async Lecture2\Async Lecture2\obj\Debug\Async Lecture2.pdb
